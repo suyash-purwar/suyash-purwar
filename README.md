@@ -1,12 +1,8 @@
-![j](https://github.com/Suyash-Purwar/suyash-purwar/blob/main/header.png "Philadelphia's Magic Gardens")
+![](https://github.com/Suyash-Purwar/suyash-purwar/blob/main/header.png "Philadelphia's Magic Gardens")
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on frontend web technologies
-- 🌱 I’m currently learning backend development and rocket science
-- 👯 I’m looking to collaborate on open-source projects
-- 📫 How to reach me: suyashpurwar4035@gmail.com
-- ⚡ Fun fact: I also have a strong interest in Rocket Science, Astronomy, Psychology and Photograhy
+I'm a Full-Stack Web Developer, UI/UX Designer, Amateur Photographer from India. I am looking forward to collaborate in open-source projects. These days, my focus is towards learning about Progressive Web Apps, Node.JS, ReactJS, and UX Design. When I'm not coding you can find me, you can find me learning advanced Maths and Physics, reading books on Astronomy and Rocket Science, or watching science documentaries. I like Photography too, you can see my clicks [here](https://500px.com/p/suyashpurwar4035).
 
 ### How to reach me?
 
