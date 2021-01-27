@@ -10,12 +10,12 @@ I'm a Full-Stack Web Developer, UI/UX Designer, Amateur Photographer from India.
 
 ### Latest Blog Posts 📚
 
-- ["ECMAScript, JavaScript Engines, ECMA-262, etc"](https://codepumpkin.com/ecmascript-javascript-engines-ecma-262-etc/)
-- ["Why should you learn JavaScript"](https://codepumpkin.com/why-should-we-learn-javascript/)
-- ["Program to check if given string is a Palindrome or not in JavaScript"](https://codepumpkin.com/palindrome-string-javascript/)
-- ["Code editors for Web Development"](https://codepumpkin.com/code-editors-for-web-development/)
-- ["Where to place JavaScript Code"](https://codepumpkin.com/where-to-place-javascript-code/)
-- ["Statements, Semicolons, and Comments in JavaScript"](https://codepumpkin.com/statements-semicolons-and-comments-in-javascript/)
+- [ECMAScript, JavaScript Engines, ECMA-262, etc](https://codepumpkin.com/ecmascript-javascript-engines-ecma-262-etc/)
+- [Why should you learn JavaScript](https://codepumpkin.com/why-should-we-learn-javascript/)
+- [Program to check if given string is a Palindrome or not in JavaScript](https://codepumpkin.com/palindrome-string-javascript/)
+- [Code editors for Web Development](https://codepumpkin.com/code-editors-for-web-development/)
+- [Where to place JavaScript Code](https://codepumpkin.com/where-to-place-javascript-code/)
+- [Statements, Semicolons, and Comments in JavaScript](https://codepumpkin.com/statements-semicolons-and-comments-in-javascript/)
 
 ### Github Stats 📈
 
