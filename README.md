@@ -1,8 +1,6 @@
-!["Suyash"](header.png "Header Image")
-
 ## Hi there 👋
 
-I'm a Full-Stack Web Developer, UI/UX Designer, Amateur Photographer from India. I am looking forward to collaborate in open-source projects. These days, my focus is towards learning about Progressive Web Apps, Node.JS, ReactJS, and UX Design. When I'm not coding you can find me learning advanced Maths and Physics, reading books on Astronomy and Rocket Science, or watching science documentaries. I like Photography too, you can see my clicks [here](https://500px.com/p/suyashpurwar4035).
+I'm a Front End Web Developer, UI/UX Designer, Amateur Photographer from India. I am looking forward to collaborate in open-source projects. These days, my focus is towards learning about Progressive Web Apps, Node.JS, ReactJS, and UX Design. I'm on the way of becoming a full stack developer. When I'm not coding you can find me learning advanced Maths and Physics, reading books on Astronomy and Rocket Science, or watching science documentaries. I like Photography too, you can see my clicks [here](https://500px.com/p/suyashpurwar4035).
 
 ## How to reach me? 🤙
 
