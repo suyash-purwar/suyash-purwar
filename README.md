@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Full Stack Web Developer, UI/UX Designer, Amateur Photographer from India. I am looking forward to collaborating on open-source projects. These days, my focus is on strengthening backend development skills. When I'm not coding you can find me learning advanced Maths and Physics, reading books on Astronomy and Rocket Science, or watching science documentaries. I like Photography too, you can see my clicks [here](https://500px.com/p/suyashpurwar4035).
+I'm a Back-end Developer and hobbyist UI/UX Designer from India. I am looking forward to collaborating on open-source projects. These days, my focus is on strengthening full-stack development skills along with core CS subjects like Database Management Systems, Computer Networking, and Data Structures & Alogrithm. When I'm not coding you can find me listening podcasts on Philosophy. I like Photography too, you can see my clicks [here](https://500px.com/p/suyashpurwar4035).
 
 ## How to reach me? 🤙
 
