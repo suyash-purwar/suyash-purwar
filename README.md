@@ -21,4 +21,5 @@ I'm a Back-end Developer and hobbyist UI/UX Designer from India. I am looking fo
 
 ## Github Stats 📈
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suyash-Purwar&theme=radical" alt="rudy45kc"/></p>
 ![github stats](https://github-readme-stats.vercel.app/api?username=suyash-purwar&&show_icons=true&count_private=true&theme=radical&hide_border=true&custom_title=Suyash's%20Github%20Stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyash-purwar&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
