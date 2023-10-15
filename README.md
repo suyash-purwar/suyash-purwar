@@ -34,9 +34,3 @@ My hobbies are Photography and UI/UX designing. You can see my clicks [here](htt
 - [Code editors for Web Development](https://codepumpkin.com/code-editors-for-web-development/)
 - [Where to place JavaScript Code](https://codepumpkin.com/where-to-place-javascript-code/)
 - [Statements, Semicolons, and Comments in JavaScript](https://codepumpkin.com/statements-semicolons-and-comments-in-javascript/)
-
-## Github Stats 📈
-
-![github stats](https://github-readme-stats.vercel.app/api?username=suyash-purwar&&show_icons=true&count_private=true&theme=radical&hide_border=true&custom_title=Suyash's%20Github%20Stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyash-purwar&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suyash-Purwar&theme=radical" alt="Suyash-Purwar"/></p>
