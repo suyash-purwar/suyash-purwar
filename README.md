@@ -31,12 +31,3 @@ I'm a full-stack engineer working as an SDE 1 at HackerRank. My interest primari
 ### Designing (Hobby)
 
 <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-
-## Latest Blog Posts 📚
-
-- [ECMAScript, JavaScript Engines, ECMA-262, etc](https://codepumpkin.com/ecmascript-javascript-engines-ecma-262-etc/)
-- [Why should you learn JavaScript](https://codepumpkin.com/why-should-we-learn-javascript/)
-- [Program to check if given string is a Palindrome or not in JavaScript](https://codepumpkin.com/palindrome-string-javascript/)
-- [Code editors for Web Development](https://codepumpkin.com/code-editors-for-web-development/)
-- [Where to place JavaScript Code](https://codepumpkin.com/where-to-place-javascript-code/)
-- [Statements, Semicolons, and Comments in JavaScript](https://codepumpkin.com/statements-semicolons-and-comments-in-javascript/)
