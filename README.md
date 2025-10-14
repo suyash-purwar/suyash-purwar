@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a full-stack engineer working as an SDE 1 at HackerRank. My interest primarily lies in backend engineering. These days I'm learning to develop systems that scale well and how Networking Protocols, Databases, and Language Architecture of choice affect the performance. Becoming 10x backend engineer. My hobbies are Photography and UI/UX designing.
+My interest primarily lies in low-level systems engineering and distributed systems. These days, I'm learning C/C++, Operating System, and Assembly to *really* understand the magic that happens at low-level systems. I'm also an SDE 1 HackerRank.
 
 ## How to reach me? 🤙
 
