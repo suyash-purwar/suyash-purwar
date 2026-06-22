@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My interest primarily lies in low-level systems engineering and distributed systems. These days, I'm learning C/C++, Operating System, and Assembly to *really* understand the magic that happens at low-level systems. I'm also an SDE 1 HackerRank.
+My interest primarily lies in low-level systems engineering and distributed systems. These days, I'm learning C/C++, Operating System, and Assembly to *really* understand the magic that happens at low-level systems. I'm an SDE 2 in the Platforms team at HackerRank.
 
 ## How to reach me? 🤙
 
